@@ -1,4 +1,4 @@
-## I'm Nataly Sarmiento Ospina :godmode:
+## I'm Nataly Sarmiento Ospina :godmode: ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/nasarmientoo)
 
 Desarrolladora web junior :toolbox:  e ingeniera catastral y geodesta :globe_with_meridians:. <br />
 Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo. Tengo un constante interés por aprender rápidamente cosas nuevas y profundizar en el mundo del diseño innovador y la comprensión de las técnicas de desarrollo junto con el aprovechamiento de los datos
@@ -15,8 +15,6 @@ Creo que las bases de la programación son: resolver problemas y divertirse haci
 
 [![alt text][1.1]][1] nasarmientoo <br />
 [![alt text][1.2]][2] nasarmientoo@gmail.com <br />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/nasarmientoo)
-
 
 [1.1]: https://user-images.githubusercontent.com/72315710/126590347-c465b4d8-31a3-4d82-937e-9faeb0e56d91.png
 [1.2]: https://user-images.githubusercontent.com/72315710/126590969-2a0c2592-aebd-485a-9ce8-3fbd7ff44ab2.png
