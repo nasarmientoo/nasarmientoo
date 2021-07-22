@@ -12,10 +12,8 @@
 
 [1]: https://www.linkedin.com/in/nasarmientoo/
 [2]: https://mail.google.com/mail/u/0/#inbox
-
-<p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=gruvbox_duo)](https://git.io/streak-stats)
-</p>
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=gruvbox_duo)](https://git.io/streak-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/nasarmientoo)
 
