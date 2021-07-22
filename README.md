@@ -5,7 +5,7 @@ Creo que las bases de la programación son: resolver problemas y divertirse haci
 
 #### Estoy aprendiendo
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=nasarmientoo&theme=ayu-mirage&show_icons=true">
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=nasarmientoo&theme=ayu-mirage&show_icons=true">
 
  * ![alt text][1.3] JavaScript                          
  * ![alt text][1.4] HTML                                                                                                                                           
