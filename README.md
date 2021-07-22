@@ -5,11 +5,11 @@ Creo que las bases de la programación son: resolver problemas y divertirse haci
 
 #### Estoy aprendiendo
 * ![alt text][1.3] JavaScript
-* [1.4] HTML
-* [1.5] CSS
-* [1.6] Node.js
-* [1.7] React.js
-* [1.8] Firebase
+* ![alt text][1.4] HTML
+* ![alt text][1.5] CSS
+* ![alt text][1.6] Node.js
+* ![alt text][1.7] React.js
+* ![alt text][1.8] Firebase
 
 ### Contact me
 
