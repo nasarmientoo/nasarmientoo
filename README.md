@@ -1,6 +1,17 @@
 ## I'm Nataly Sarmiento Ospina :godmode:
 
-:toolbox: Desarrolladora web junior e ingeniera catastral y geodesta. Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo. Por esto, tengo un constante interés por aprender rápidamente cosas nuevas y profundizar en el mundo del diseño innovador y la comprensión de las técnicas de desarrollo junto con el aprovechamiento de los datos
+Desarrolladora web junior :toolbox:  e ingeniera catastral y geodesta :globe_with_meridians:. 
+Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo. Tengo un constante interés por aprender rápidamente cosas nuevas y profundizar en el mundo del diseño innovador y la comprensión de las técnicas de desarrollo junto con el aprovechamiento de los datos
+
+## Estoy aprendiendo
+
+|Javascript|
+* JavaScript
+* HTML
+* CSS
+* Node.js
+* React.js
+* Firebase
 
 ### Contact me
 
