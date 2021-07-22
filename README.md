@@ -14,7 +14,7 @@ Creo que las bases de la programación son: resolver problemas y divertirse haci
 ### Contact me
 
 [![alt text][1.1]][1] nasarmientoo <br />
-[![alt text][1.2]][2] nasarmientoo@gmail.com
+[![alt text][1.2]][2] nasarmientoo@gmail.com <br />
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/nasarmientoo)
 
 
