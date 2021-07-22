@@ -2,9 +2,6 @@
 
 :toolbox: Desarrolladora web junior e ingeniera catastral y geodesta. Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo. Por esto, tengo un constante interés por aprender rápidamente cosas nuevas y profundizar en el mundo del diseño innovador y la comprensión de las técnicas de desarrollo junto con el aprovechamiento de los datos
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=gruvbox_duo)](https://git.io/streak-stats)
-
-
 ### Contact me
 
 [![alt text][1.1]][1] nasarmientoo <br />
@@ -16,6 +13,12 @@
 [1]: https://www.linkedin.com/in/nasarmientoo/
 [2]: https://mail.google.com/mail/u/0/#inbox
 
+<p align=center>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=gruvbox_duo)](https://git.io/streak-stats)
+</p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/nasarmientoo)
+
+
 
 
