@@ -4,14 +4,14 @@ Desarrolladora web junior :toolbox:  e ingeniera catastral y geodesta :globe_wit
 Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo. Tengo un constante interés por aprender rápidamente cosas nuevas y profundizar en el mundo del diseño innovador y la comprensión de las técnicas de desarrollo junto con el aprovechamiento de los datos
 
 #### Estoy aprendiendo
-| * ![alt text][1.3] JavaScript |                                                                                                                                      |    
-| * ![alt text][1.4] HTML       |                                                                                                                                      |
-| * ![alt text][1.5] CSS        |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=gruvbox_duo)](https://git.io/streak-stats)  |
-| * ![alt text][1.6] Node.js    |                                                                                                                                      |
-| * ![alt text][1.7] React.js   |                                                                                                                                      |
-| * ![alt text][1.8] Firebase   |                                                                                                                                      |
+ * ![alt text][1.3] JavaScript                                                                                                                                          
+ * ![alt text][1.4] HTML                                                                                                                                           
+ * ![alt text][1.5] CSS        
+ * ![alt text][1.6] Node.js                                                                                                                                          
+ * ![alt text][1.7] React.js                                                                                                                                         
+ * ![alt text][1.8] Firebase                                                                                                                                         
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=gruvbox_duo)](https://git.io/streak-stats)
 
 ### Contact me
 
