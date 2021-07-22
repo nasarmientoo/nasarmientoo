@@ -6,7 +6,7 @@
 
 #### Contact me
 
-[![alt text][1.1]][1] nasarmientoo
+[![alt text][1.1]][1] nasarmientoo <br />
 [![alt text][1.2]][2] nasarmientoo@gmail.com
 
 [1.1]: https://user-images.githubusercontent.com/72315710/126590347-c465b4d8-31a3-4d82-937e-9faeb0e56d91.png
