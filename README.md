@@ -1,10 +1,10 @@
 ## I'm Nataly Sarmiento Ospina :godmode:
 
-Desarrolladora web junior :toolbox:  e ingeniera catastral y geodesta :globe_with_meridians:. 
+Desarrolladora web junior :toolbox:  e ingeniera catastral y geodesta :globe_with_meridians:. <br />
 Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo. Tengo un constante interés por aprender rápidamente cosas nuevas y profundizar en el mundo del diseño innovador y la comprensión de las técnicas de desarrollo junto con el aprovechamiento de los datos
 
 #### Estoy aprendiendo
-* [1.3] JavaScript
+* https://user-images.githubusercontent.com/72315710/126600141-4245abb1-71d9-4c78-9ebe-e72c8659c230.png JavaScript
 * [1.4] HTML
 * [1.5] CSS
 * [1.6] Node.js
