@@ -1,10 +1,10 @@
-### I'm Nataly Sarmiento Ospina :godmode:
+## I'm Nataly Sarmiento Ospina :godmode:
 
 :toolbox: Desarrolladora web e ingeniera catastral y geodesta
 
 
 
-Contact me
+### Contact me
 
 [![alt text][1.1]][1] nasarmientoo <br />
 [![alt text][1.2]][2] nasarmientoo@gmail.com
