@@ -5,7 +5,7 @@ Creo que las bases de la programación son: resolver problemas y divertirse haci
 
 <img align="right" width="450" src="http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=gruvbox_duo">
 
-#### Estoy aprendiendo                                                                             
+### Estoy aprendiendo                                                                             
  * ![alt text][1.3] JavaScript                          
  * ![alt text][1.4] HTML                                                                                                                                           
  * ![alt text][1.5] CSS                                
