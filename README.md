@@ -2,8 +2,14 @@
 
 :toolbox: Desarrolladora web e ingeniera catastral y geodesta
 
-Creo que la base de la programación es resolver problemas y el desarrollo de la resolución del problema debe ser divertido
+Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo.
 
+### Estoy aprendiendo
+[] JavaScript
+[] React.js
+[] Node.js
+[] Firebase 
+...
 
 ### Contact me
 
