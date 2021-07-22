@@ -1,11 +1,11 @@
-## I'm Nataly Sarmiento Ospina :godmode: <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/nasarmientoo">
+## I'm Nataly Sarmiento Ospina :godmode: 
 
 Desarrolladora web junior :toolbox:  e ingeniera catastral y geodesta :globe_with_meridians:. <br />
 Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo. Tengo un constante interés por aprender rápidamente cosas nuevas y profundizar en el mundo que une el diseño innovador, el aprovechamiento de los datos y la comprensión de las técnicas de desarrollo.
 
 #### Estoy aprendiendo
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=nasarmientoo&theme=dark&show_icons=true">
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=nasarmientoo&theme=graywhite&show_icons=true">
 
  * ![alt text][1.3] JavaScript                          
  * ![alt text][1.4] HTML                                                                                                                                           
