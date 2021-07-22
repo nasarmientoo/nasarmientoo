@@ -3,10 +3,10 @@
 Desarrolladora web junior :toolbox:  e ingeniera catastral y geodesta :globe_with_meridians:. <br />
 Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo. Tengo un constante interés por aprender rápidamente cosas nuevas y profundizar en el mundo del diseño innovador y la comprensión de las técnicas de desarrollo junto con el aprovechamiento de los datos
 
-#### Estoy aprendiendo                                                       <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=dark-smoky)(https://git.io/streak-stats)">                      
+#### Estoy aprendiendo                                                                             
  * ![alt text][1.3] JavaScript                                                                                                                                          
  * ![alt text][1.4] HTML                                                                                                                                           
- * ![alt text][1.5] CSS        
+ * ![alt text][1.5] CSS                                 <img align="right" src="[1.9]">
  * ![alt text][1.6] Node.js                                                                                                                                          
  * ![alt text][1.7] React.js                                                                                                                                         
  * ![alt text][1.8] Firebase                                                                                                                                         
@@ -24,6 +24,7 @@ Creo que las bases de la programación son: resolver problemas y divertirse haci
 [1.6]: https://user-images.githubusercontent.com/72315710/126600472-b5057b22-8735-497a-a014-59affb99e37e.png
 [1.7]: https://user-images.githubusercontent.com/72315710/126600505-0dd428cd-28e6-4284-adb0-1e7701e35b6d.png
 [1.8]: https://user-images.githubusercontent.com/72315710/126600548-9859f3a6-5ba6-43c1-a949-72873357ba0f.png
+[1.9]: http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=gotham)(https://git.io/streak-stats)
 
 [1]: https://www.linkedin.com/in/nasarmientoo/
 [2]: https://mail.google.com/mail/u/0/#inbox
