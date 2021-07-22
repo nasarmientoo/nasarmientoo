@@ -2,7 +2,7 @@
 
 Desarrolladora web junior e ingeniera catastral y geodesta :toolbox:. Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo.
 
-### Estoy aprendiendo
+#### Estoy aprendiendo
 * JavaScript
 * React.js
 * Node.js
