@@ -3,7 +3,7 @@
 Desarrolladora web junior :toolbox:  e ingeniera catastral y geodesta :globe_with_meridians:. <br />
 Creo que las bases de la programación son: resolver problemas y divertirse haciéndolo. Tengo un constante interés por aprender rápidamente cosas nuevas y profundizar en el mundo del diseño innovador y la comprensión de las técnicas de desarrollo junto con el aprovechamiento de los datos
 
-#### Estoy aprendiendo                            <img align="right" src="<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/nasarmientoo">">
+#### Estoy aprendiendo                                                       <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=dark-smoky)(https://git.io/streak-stats)">                      
  * ![alt text][1.3] JavaScript                                                                                                                                          
  * ![alt text][1.4] HTML                                                                                                                                           
  * ![alt text][1.5] CSS        
