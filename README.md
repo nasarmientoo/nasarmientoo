@@ -14,7 +14,7 @@ Creo que las bases de la programación son: resolver problemas y divertirse haci
  * ![alt text][1.7] React.js                                                                                                                                         
  * ![alt text][1.8] Firebase                                                                                                                                         
 
-#### Contáctame
+### Contáctame
 [![alt text][1.1]][1] nasarmientoo <br />
 [![alt text][1.2]][2] nasarmientoo@gmail.com <br />
 
