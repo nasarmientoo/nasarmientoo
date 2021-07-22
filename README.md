@@ -11,7 +11,7 @@ Creo que las bases de la programación son: resolver problemas y divertirse haci
  * ![alt text][1.7] React.js                                                                                                                                         
  * ![alt text][1.8] Firebase                                                                                                                                         
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=gruvbox_duo)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nasarmientoo&theme=dark-smoky)](https://git.io/streak-stats)
 
 ### Contact me
 
