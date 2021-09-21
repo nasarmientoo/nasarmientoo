@@ -1,7 +1,7 @@
 ## I'm Nataly Sarmiento Ospina :godmode: <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/nasarmientoo">
 
 Desarrolladora front-end :toolbox:  e ingeniera catastral y geodesta :globe_with_meridians:. <br />
-Tengo un constante interés por aprender rápidamente cosas nuevas y profundizar en el mundo que une el diseño innovador, el aprovechamiento de los datos y la comprensión de las técnicas de desarrollo orientadas a la experiencia de usuarios.
+Tengo un constante interés por aprender y profundizar en el mundo que une el diseño innovador y la comprensión de las técnicas orientadas a la experiencia óptima de los usuarios. Aplico mi profesión como una herramienta sólida para resolver problemas a partir de soluciones originales, esto se ve reflejado en el uso de la tecnología para aprovechar los datos, entre ellos geográficos, y así generar, analizar y representar información asociada a diversas temáticas
 
 #### Estoy aprendiendo
 
