@@ -1,4 +1,4 @@
-## Hey :godmode: <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/nasarmientoo">
+## Hey :godmode: 
 
 Soy Desarrolladora front-end :toolbox:  e ingeniera catastral y geodesta :globe_with_meridians:. <br />
                                                                                                                               
