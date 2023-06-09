@@ -1,6 +1,6 @@
 ## Hey :godmode: 
 
-Soy Desarrolladora front-end :toolbox:  e ingeniera catastral y geodesta :globe_with_meridians:. <br />
+Igeniera catastral y geodesta :globe_with_meridians: | Desarrolladora web 🧰:. <br />
                                                                                                                               
 ### Contáctame
 [![alt text][1.1]][1] nasarmientoo <br />
