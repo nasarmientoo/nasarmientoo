@@ -1,6 +1,5 @@
 ## Hey :godmode: 
 
-Igeniera catastral y geodesta :globe_with_meridians: | Desarrolladora web 🧰. <br />
                                                                                                                               
 ### Contáctame
 [![alt text][1.1]][1] nasarmientoo <br />
